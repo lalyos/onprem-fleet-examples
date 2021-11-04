@@ -1,4 +1,4 @@
-namespace: longhorn-system
+defaultNamespace: longhorn-system
 
 helm:
   releaseName: longhorn
