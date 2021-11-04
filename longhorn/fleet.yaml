@@ -1,0 +1,9 @@
+namespace: longhorn
+
+helm:
+  releaseName: mylonghorn
+  chart: "longhorn"
+  repo: "https://charts.longhorn.io"
+
+  # Force recreate resource that can not be updated
+  force: false
