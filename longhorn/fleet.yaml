@@ -1,9 +1,9 @@
 namespace: longhorn-system
 
 helm:
-  releaseName: mylonghorn
+  releaseName: longhorn
   chart: "longhorn"
   repo: "https://charts.longhorn.io"
 
   # Force recreate resource that can not be updated
-  force: false
+  force: true
