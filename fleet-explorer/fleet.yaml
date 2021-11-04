@@ -16,4 +16,4 @@ helm:
     ingress:
       host: explorer.green.alpha.k3z.eu
     vars:
-      COLOR: lawngreen
+      COLOR: orchid
