@@ -14,6 +14,6 @@ helm:
       repository: lalyos/explorer
       tag: "1.1"
     ingress:
-      host: explorer.fleet.alpha.k3z.eu
+      host: explorer.green.alpha.k3z.eu
     vars:
-      COLOR: lightgreen
+      COLOR: lawngreen
